@@ -1,33 +1,39 @@
-## Hi there 👋 I'm Akshat Sharma  
+# 👋 Hi there, I'm **Akshat Sharma**
 
 ### 🚀 About Me  
-I'm a passionate **AI/ML Developer** and **Researcher** specializing in Vision-Language Models, predictive analytics, and innovative software solutions. With a strong academic and hands-on background in Computer Science and Economics, I thrive at the intersection of cutting-edge technology and impactful problem-solving.  
+I'm a dedicated **AI Software Developer** and **Azure Cloud Practitioner** focused on developing **data-driven solutions**. My combined background in **Computer Science** and **Economics** allows me to solve impactful problems through technology.
 
-- 🏆 **Projects I've worked on:**  
-   - **Medical Imaging**: Enhanced multimodal AI models for breast cancer detection, including fine-tuning Mammo-CLIP and generating pseudo-labels with OpenAI’s CLIP for improved accuracy in medical imaging datasets.  
-   - **Pravaha**: Developed and deployed an AI-driven employee engagement platform as a Slack app, leveraging OpenAI’s GPT-4, LlamaIndex, and Upstash Redis for seamless interaction and scalability.  
-   - **Predictive Modeling**: Built a data-driven predictive model for flight delay forecasting using weather data and clustering techniques.  
+---
 
-- 🌱 **Currently learning:**  
-   - Docker and Kubernetes for containerized deployments.  
-   - Advanced bias detection methods in machine learning.  
-   - Exploring innovative applications of AI for societal impact.  
+### 🏆 Projects I've Worked On  
+- **Slack AI App**: Built an AI-driven **Slack app** for employee engagement using **GPT-4**, **LlamaIndex**, and **Upstash Redis**.  
+- **Predictive Modeling**: Developed a **flight delay prediction model** using weather data and clustering techniques.  
+- **Medical Imaging**: Enhanced multimodal **AI models** for breast cancer detection by fine-tuning **Mammo-CLIP** and generating pseudo-labels with **OpenAI’s CLIP**.
 
-- 👯 **Looking to collaborate on:**  
-   - AI/ML applications in healthcare, education, and market solutions.  
-   - Vision-Language Model projects and research.  
-   - Full-stack solutions for real-world challenges.  
+---
+
+### 🌱 Currently Learning  
+- **Docker** & **Kubernetes** for scalable deployments.  
+- **Azure Cloud** and **Microsoft Power Platform**.  
+- Innovative **AI solutions** for societal impact.
+
+---
 
 ### 💬 Ask Me About  
-- AI/ML, Vision-Language Models, and bias detection techniques.  
-- Full-stack development (Python, Django, and front-end integration).  
-- Market research and strategy for software solutions. 
+- **Azure cloud development**, Power Platform, and Azure Services.  
+- **Full-stack development** (Python, Django, and front-end integration).  
+- **Market research** and strategy for software solutions.
+
+---
 
 ### 📫 How to Reach Me  
-- **Email:** [akshat1.sunil@gmail.com]  
-- **LinkedIn:** [https://www.linkedin.com/in/akshat-sharma-599278236/]  
-- **Portfolio:** [https://akshatsharma03.github.io]  
+- **Email:** [akshat1.sunil@gmail.com](mailto:akshat1.sunil@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/akshat-sharma-599278236](https://www.linkedin.com/in/akshat-sharma-599278236/)  
+- **Portfolio:** [akshatsharma03.github.io](https://akshatsharma03.github.io)
+
+---
 
 ### ⚡ Fun Fact  
-- I enjoy exploring intersections between technology and societal impact, especially in healthcare and education.  
-- I’m also a big fan of problem-solving, both in code and in real life!  
+- I’m a big fan of **problem-solving**, both in code and real life!
+
+---
