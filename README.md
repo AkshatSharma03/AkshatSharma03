@@ -14,13 +14,14 @@ I'm a dedicated **AI Software Developer** and **Azure Cloud Practitioner** focus
 
 ### 🌱 Currently Learning  
 - **Docker** & **Kubernetes** for scalable deployments.  
-- **Azure Cloud** and **Microsoft Power Platform**.  
+- **AWS Solution Architect * and **AWS Developer **.  
 - Innovative **AI solutions** for societal impact.
 
 ---
 
 ### 💬 Ask Me About  
-- **Azure cloud development**, Power Platform, and Azure Services.  
+- **AI Agents**, CrewAI, MCP, A2A
+- **cloud development**, AWS Services.  
 - **Full-stack development** (Python, Django, and front-end integration).  
 - **Market research** and strategy for software solutions.
 
@@ -28,7 +29,7 @@ I'm a dedicated **AI Software Developer** and **Azure Cloud Practitioner** focus
 
 ### 📫 How to Reach Me  
 - **Email:** [akshat1.sunil@gmail.com](mailto:akshat1.sunil@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/akshat-sharma-599278236](https://www.linkedin.com/in/akshat-sharma-599278236/)  
+- **LinkedIn:** [https://www.linkedin.com/in/sharma-akshat03/](https://www.linkedin.com/in/sharma-akshat03/)  
 - **Portfolio:** [akshatsharma03.github.io](https://akshatsharma03.github.io)
 
 ---
